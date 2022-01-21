@@ -39,7 +39,7 @@ Setting up the bot requires basic knowledge of the command line, which is bash o
  8. Add the Telegram bot to the Telegram chat
    - If the Telegram chat is a supergroup, the bot also needs to be admin of the group, or it won't get the messages. The creator of the supergroup is able to give it admin rights
  9. Add the Discord bot to the Discord server (https://discordapp.com/oauth2/authorize?client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=248832). This requires that you have admin rights on the server
- 10. Start TediCross: `npm start`
+ 10. Start SiriBridger: `npm start`
  11. Ask the bots for the remaining details. In the Telegram chat and the Discord channel, write `/chatinfo`. Put the info you get in the settings file.
    - If you want to bridge a Telegram group or channel, remember that the ID is negative. Include the `-` when entering it into the settings file
    - It is important that the Discord  channel ID is wrapped with single quotes when entered into the settings file. `'244791815503347712'`, not `244791815503347712`
