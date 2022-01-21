@@ -1,14 +1,17 @@
-TediCross
+SiriBridger
 =========
-TediCross is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
+SiriBridger is a bot which bridges a chat in [Telegram](https://telegram.org) with a channel in [Discord](https://discordapp.com/).
 
-There is no public TediCross bot. You need to host it yourself. To host a bot, you need [nodejs](https://nodejs.org). The bot requires NodeJS 14.9 or higher
+There is no public SiriBridger bot. You need to host it yourself. To host a bot, you need [nodejs](https://nodejs.org). The bot requires NodeJS 14.9 or higher
 
 
-TediCross News Channel
+SiriCoin Community
 ----------------------
 
-We now have a Telegram channel where we post news about the bot! Join us at https://t.me/TediCross
+SiriCoin is a light weight crypto currency which can be mined on AVRs, RPIs, ESPs, CPUs, GPUs and Androids... Join our Community here: 
+Discord: https://discord.gg/MqRY4sMjjv
+Telegram: https://t.me/cryptosiricoin
+Reddit: https://www.reddit.com/r/SiriCoin/
 
 
 Features & known bugs
@@ -176,7 +179,7 @@ If you haven't accidently launched two instances of TediCross, assume the token 
 Take a look in [guides/autostart/](guides/autostart/) of this repo
 
 
-### How do I update TediCross?
+### How do I update SiriBridger?
 
 Most updates are annouced on the [TediCross News channel](https://t.me/TediCross). Only very minor ones are not
 
